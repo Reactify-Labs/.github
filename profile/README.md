@@ -1,12 +1,17 @@
-## Hi there 👋
+# Reactify Labs 👋
+Somos un grupo de desarrolladores que se dedican a crear aplicaciones que amamos. Nos apasiona la tecnología y nos divertimos al máximo mientras las creamos. Nuestro enfoque principal es la escalabilidad, lo que significa que nuestras apps están diseñadas para crecer contigo. Pero, lo más importante, nos aseguramos de que cada proyecto sea una aventura emocionante. ¡Únete a nosotros mientras exploramos el emocionante mundo de la creación de aplicaciones!
 
-<!--
 
-**Here are some ideas to get you started:**
+### 👥 Nuestros equipo
+- Jorge ( Frontend - Mobile - UX )
+- Michael ( Backend - Integrations )
+- Dylan ( Backend - Architure )
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+### 🌱 Proyectos
+- [Divi](https://www.youtube.com/watch?v=7GG7j_w0uE8) 
+
+
+### 📫 How to reach me?
+- [Twitter](https://www.youtube.com/watch?v=isioQPUiAVk) 
+- [Medium](hhttps://www.youtube.com/watch?v=x7Z86jQjG30)
