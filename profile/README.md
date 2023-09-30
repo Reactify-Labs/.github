@@ -5,7 +5,7 @@ Somos un grupo de desarrolladores que se dedican a crear aplicaciones que amamos
 ### 👥 Nuestros equipo
 - Jorge ( Frontend - Mobile - UX )
 - Michael ( Backend - Integrations )
-- Dylan ( Backend - Architure )
+- Dylan ( Backend - Architecture )
 
 
 ### 🌱 Proyectos
@@ -14,4 +14,4 @@ Somos un grupo de desarrolladores que se dedican a crear aplicaciones que amamos
 
 ### 📫 How to reach me?
 - [Twitter](https://www.youtube.com/watch?v=isioQPUiAVk) 
-- [Medium](hhttps://www.youtube.com/watch?v=x7Z86jQjG30)
+- [Medium](https://www.youtube.com/watch?v=x7Z86jQjG30)
